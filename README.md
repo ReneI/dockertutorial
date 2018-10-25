@@ -25,3 +25,8 @@ sudo usermod -a -G docker $USER
 After doing that, you should be able to run the command without any issues. Run docker run hello-world as a normal user in order to check if it works. Reboot if the issue still persists.
 
 Logging out and logging back in is required because the group change will not have an effect unless your session is closed
+
+
+### Paquetes para instalar wordpress
+
+
